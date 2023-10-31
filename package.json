@@ -3,5 +3,9 @@
   "version": "1.0.0",
   "description": "Playground my pi",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "i2c-bus": "^5.2.3",
+    "rpi-gpio": "^2.1.7"
+  }
 }
