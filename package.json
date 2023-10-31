@@ -1,0 +1,7 @@
+{
+  "name": "nodepi",
+  "version": "1.0.0",
+  "description": "Playground my pi",
+  "main": "index.js",
+  "license": "MIT"
+}
