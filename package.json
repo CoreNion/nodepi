@@ -7,5 +7,9 @@
   "dependencies": {
     "i2c-bus": "^5.2.3",
     "rpi-gpio": "^2.1.7"
+  },
+  "devDependencies": {
+    "mcp-spi-adc": "^3.2.0",
+    "pi-spi": "^1.2.1"
   }
 }
